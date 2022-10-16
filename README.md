@@ -1,5 +1,7 @@
 # Excuse Generator
 
+Basic exercise that generate a new random excuse when a button is pressed. 
+
 
 ### How do I run the code?
 
